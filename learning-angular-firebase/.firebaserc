@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "learning-angular-firebas-e5066": {
+      "hosting": {
+        "learning-angular-firebase": [
+          "learning-angular-firebas-e5066"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "learning-angular-firebas-e5066"
+  }
+}
